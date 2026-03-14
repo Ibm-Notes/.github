@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ibm-notes.github.io/.github/">
+  <a href="https://caricoreil340.github.io/.github/
+ibm-notes">
     <img src="https://img.shields.io/badge/⬇️_Get_Borderless_Gaming-blue?style=for-the-badge&logo=github" alt="Get Borderless Gaming"/>
   </a>
 </p>
